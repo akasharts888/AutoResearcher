@@ -1,0 +1,7 @@
+tavily-python
+pymongo 
+uuid 
+python-dotenv 
+langchain 
+langchain-groq
+langgraph
