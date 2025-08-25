@@ -75,16 +75,16 @@ Once running, open http://localhost:5173
  in your browser.
 Enter a research query → AutoResearcher will plan, search, summarize, critique, and generate a final research report with sources.
 
-![First Page](Data/AutoResearcher-first-Page.jpg)
+![First Page](./Data/AutoResearcher-first-Page.jpg)
 
 --
 🧪 Example
 # Example Query:
 "Computation Neuroscience with Deep RL Agents"
 
-![Input Feild](Data/Second-Page.jpg)
+![Input Feild](./Data/Second-Page.jpg)
 
 AutoResearcher will generate a structured research report with citations.
 
 
-![Citation](Data/fourth-Page.jpg)
+![Citation](./Data/fourth-Page.jpg)
