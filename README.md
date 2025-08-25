@@ -37,21 +37,28 @@ AutoResearcher is an intelligent, agentic AI system that performs **automated to
 
 ## ⚡ Getting Started
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/your-username/AutoResearcher.git
 cd AutoResearcher
+```
 
 Install dependencies
 Backend (FastAPI + LangGraph)
+
+```bash
 cd backend
 pip install -r requirements.txt
+```
 
 Frontend (React + Vite)
+
+```bash
 cd frontend
 npm install
+```
 
-3️⃣ Setup environment variables
+Setup environment variables
 
 Create a .env file in both backend and frontend with required keys:
 
@@ -60,14 +67,20 @@ PINECONE_API_KEY=your_pinecone_key
 TAVILY_API_KEY=your_tavily_key
 GROQ_API_KEY=your_groq_key
 
-4️⃣ Run the servers
+### Run the servers
+
 Start backend (FastAPI)
+```bash
 cd backend
 uvicorn app.main:app --reload
+```
 
 Start frontend (React)
+
+```bash
 cd frontend
 npm run dev
+```
 
 5️⃣ Usage
 
