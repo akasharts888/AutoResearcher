@@ -49,7 +49,6 @@ const LandingPage = ({}) => {
     const [openIndex, setOpenIndex] = useState(null);
     return (
         <div>
-            
             {/* Hero Section */}
             <section className = "bg-gradient-to-br from-[#264653] to-[#2a9d8f] text-white py-24 px-6 text-center">
                 <h1 className="text-4xl md:text-6xl font-bold mb-4">AutoResearcher</h1>
